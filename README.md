@@ -43,10 +43,7 @@ El sistema sigue un pipeline completo desde el PDF hasta la interfaz interactiva
     git clone https://github.com/tu-usuario/Alicia-RAG-Chatbot.git
     cd Alicia-RAG-Chatbot
     ```
-2.  **Instala las dependencias:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
 3.  **Configura tus claves de API:**
     - Renombra el archivo `.env.example` a `.env`.
     - Abre `.env` y pega tus claves de API de OpenAI y Google AI Studio.
