@@ -2,11 +2,6 @@
 
 ¡Bienvenido! Este proyecto es una inmersión profunda en la creación de una IA experta y con personalidad, utilizando una arquitectura RAG (Retrieval-Augmented Generation) de principio a fin. El resultado es un chatbot con el que puedes conversar sobre "Alicia en el País de las Maravillas" en dos modos: como un Asistente Factual o como el enigmático Gato de Cheshire.
 
-### ✨ Demo en Acción
-
-![Demo del Chatbot de Alicia](assets/demo.gif)
-*(Nota: La inicialización del sistema en la primera pregunta tarda aproximadamente un minuto. Las respuestas posteriores son mucho más rápidas.)*
-
 ---
 
 ## 🎯 Motivación
